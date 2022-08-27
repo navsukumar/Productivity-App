@@ -1,0 +1,23 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#bored-button {
+  cursor: pointer;
+  box-shadow: 3px 2px 2px black;
+}
+
+#card {
+  background-color: white;
+  border-radius: 15px;
+  border-color: black;
+  border-style: solid;
+  border-width: 3px;
+  padding-left: 15px;
+  padding-right: 15px;
+
+}
